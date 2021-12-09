@@ -1,0 +1,6 @@
+3 main commands:
+git init - initializes git
+git status - checks status and changes
+git add "name of the file" or . - adding new changed to the file and letting git know
+git commit -m "text" - comments and saving changes u made
+git log - checking logs
